@@ -1,3 +1,18 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/XwBzLXzYq7ljHBXkHk/giphy.gif" width="200"/>
+  <div id="badges">
+  <a href="https://www.linkedin.com/in/cheilacarinadasilva/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  </div>
+</div>
+
+<h1>
+  Hi there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
+
 # About-me- 👋!!!
 - I hold a Master's degree in **Applied Mathematics and Informatics**, and I am actively building a portfolio of projects on GitHub to launch my career as a data specialist.
 - My focus is on enhancing my technical, statistical, and analytical skills.
