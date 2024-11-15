@@ -87,8 +87,6 @@ Here are some of the projects I completed as part of my FreeCodeCamp journey:
 			<td rowspan="5"align="left"><a href="https://www.freecodecamp.org/learn/relational-database/">Relational Database Developer</a>
 				<li>Tools: SQL, PostgreSQL, VSCode, Linux/Unix, Bash </li></td>
 			<td align="left">
-				<a href="https://github.com/CheilaDaSilva/celestial_bodies_database_project">Celestial Bodies Database</a>
-	</td>
 			<td align="left">
         <li>Relational databases and inserting data based on gathered data from research.</li>
       </td>
