@@ -50,22 +50,25 @@
 <table>
   <tbody>
     <tr>
-      <th align="center> Repository </th>
-      <th align="center> Project Description </th>
-      <th align="center> Tools </th>
-      <th align="center> Documentations </th>
+      <th align="center">Repository</th>
+      <th align="center">Project Description</th>
+      <th align="center">Tools</th>
+      <th align="center">Documentation</th>
     </tr>
-  <tr>
-    <td align="left>
-      ![Master Degree Thesis Projects](href=https://github.com/Cetaking27/Master-Degree-Project/issues/3#issue-2661997097/4")
-    </td>
-    <td align="left>
-      
-    </td>
-    <td align="left>
-      
-    </td>
-  </tr>
+    <tr>
+      <td align="left">
+        <a href="https://github.com/Cetaking27/Master-Degree-Project/issues/3#issue-2661997097/4" target="_blank"><strong>Master Degree Thesis Projects</strong></a>
+      </td>
+      <td align="left">
+        <!-- Add Project Description here -->
+      </td>
+      <td align="left">
+        <!-- Add Tools here -->
+      </td>
+      <td align="left">
+        <!-- Add Documentation links here -->
+      </td>
+    </tr>
   </tbody>
 </table>
 
