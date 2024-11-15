@@ -29,20 +29,6 @@
 ---
 
 <!-- skills section - programming languages -->
-
-## 🛠️ Skills & Tools
-
-
-## 📊 Projects Submitted as Part of FreeCodeCamp Courses
-
-Here are some of the projects I completed as part of my FreeCodeCamp journey:
-
-- [**Project 1 - Data Analysis**](https://github.com/Cetaking27/KingZoulou_Bash_SQL.git)
-  - Description: A project where I analyzed a dataset to extract meaningful insights.
-  
-- [**Project 2 - Web Scraping**](https://github.com/yourusername/project2)
-  - Description: A web scraping project to gather data from online sources and clean it for analysis.
-
 ## 🛠️ Skills & Tools
 <div>
   <h2>**Programming Languagesa and tools**:</h2>
@@ -56,6 +42,42 @@ Here are some of the projects I completed as part of my FreeCodeCamp journey:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spss/spss-original.svg" title="SPSS"  alt="SPSS" width="60" height="60" />
           
 </div>
+
+<!-- project session - descriptions -->
+
+## ❄ 📽 ⚒: My Projects lists 📃:
+
+<table>
+  <tbody>
+    <tr>
+      <th align="center> Repository </th>
+      <th align="center> Project Description </th>
+      <th align="center> Tools </th>
+      <th align="center> Documentations </th>
+    </tr>
+  <tr>
+    <td align="left>
+      <a href="https://github.com/Cetaking27/Master-Degree-Project.git"> Master Degree Thesis Projects </a>
+    </td>
+    <td align="left>
+      
+    </td>
+    <td align="left>
+      
+    </td>
+  </tr>
+  </tbody>
+</table>
+
+## 📊 Projects Submitted as Part of FreeCodeCamp Courses
+
+Here are some of the projects I completed as part of my FreeCodeCamp journey:
+
+- [**Project 1 - Data Analysis**](https://github.com/Cetaking27/KingZoulou_Bash_SQL.git)
+  - Description: A project where I analyzed a dataset to extract meaningful insights.
+  
+- [**Project 2 - Web Scraping**](https://github.com/yourusername/project2)
+  - Description: A web scraping project to gather data from online sources and clean it for analysis.
   
 ## 🎓 Certifications
 
