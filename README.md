@@ -96,7 +96,7 @@
 ## 🎓 Certifications
 
 - [**FreeCodeCamp - Data Analysis Certification**](https://www.freecodecamp.org/certification/yourusername/data-analysis)
-- [**Coursera - Machine Learning Specialization**](https://www.coursera.org/account/accomplishments/specialization/yourusername)
+- [**Coursera - Machine Learning Specialization**](https://www.coursera.org/account/accomplishments/verify/AMY4N9H8K8CT)
 
 ---
 
