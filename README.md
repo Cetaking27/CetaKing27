@@ -57,7 +57,7 @@
     </tr>
   <tr>
     <td align="left>
-      <a "href=https://github.com/Cetaking27/Master-Degree-Project/issues/3#issue-2661997097/4"> Master Degree Thesis Projects </a>
+      ![Master Degree Thesis Projects](href=https://github.com/Cetaking27/Master-Degree-Project/issues/3#issue-2661997097/4")
     </td>
     <td align="left>
       
