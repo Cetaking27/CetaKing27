@@ -46,9 +46,9 @@ Here are some of the projects I completed as part of my FreeCodeCamp journey:
 ## 🛠️ Skills & Tools
 <div>
   <h2>**Programming Languages**:</h2>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" tile="Python" alt="Python" width="60" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" title="MySQL"  alt="MySQL" width="30" height="60" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL"  alt="PostgreSQL" width="30" height="60"/>
 </div>
 - **Programming Languages**: Python, JavaScript, SQL
 - **Data Science**: Pandas, NumPy, Scikit-learn, Matplotlib
