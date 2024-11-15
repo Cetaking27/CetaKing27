@@ -45,16 +45,18 @@ Here are some of the projects I completed as part of my FreeCodeCamp journey:
 
 ## 🛠️ Skills & Tools
 <div>
-  <h2>**Programming Languages**:</h2>
+  <h2>**Programming Languagesa and tools**:</h2>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" tile="Python" alt="Python" width="60" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" title="MySQL"  alt="MySQL" width="30" height="60" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL"  alt="PostgreSQL" width="30" height="60"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" title="MySQL"  alt="MySQL" width="60" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL"  alt="PostgreSQL" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" title="BASH"  alt="BASH" width="60" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" title="Studio"  alt="Studio" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="Html5"  alt="Html5" width="60" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS3"  alt="CSS3" width="60" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spss/spss-original.svg" title="SPSS"  alt="SPSS" width="60" height="60" />
+          
 </div>
-- **Programming Languages**: Python, JavaScript, SQL
-- **Data Science**: Pandas, NumPy, Scikit-learn, Matplotlib
-- **Web Development**: HTML, CSS, JavaScript, React
-- **Tools**: Git, GitHub, Jupyter Notebooks
-
+  
 ## 🎓 Certifications
 
 - [**FreeCodeCamp - Data Analysis Certification**](https://www.freecodecamp.org/certification/yourusername/data-analysis)
