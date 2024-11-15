@@ -1,3 +1,7 @@
+<!-- header + linkedin -->
+
+---
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/XwBzLXzYq7ljHBXkHk/giphy.gif" width="200"/>
   <div id="badges">
@@ -8,16 +12,26 @@
 </div>
 
 <h1>
-  Hi there
+ Welcome to my bio
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
+---
 
-# About-me- 👋!!!
-- I hold a Master's degree in **Applied Mathematics and Informatics**, and I am actively building a portfolio of projects on GitHub to launch my career as a data specialist.
-- My focus is on enhancing my technical, statistical, and analytical skills.
-- I am working on improving my proficiency in **SQL, Python, Bash, and R-Studio** to effectively query data and uncover valuable insights. Additionally, I am expanding my expertise in data visualization tools like **Tableau(EXCEL)** and **Power BI** to better communicate findings and drive data-driven decisions.
-Below you'll find an overview of my projects and skills.
+<!-- about me -->
+
+### ⚙ : About me:
+
+- 🎙 📖 I hold a Master's degree in **Applied Mathematics and Informatics**, and I am actively building a portfolio of projects on GitHub to launch my career as a data specialist.
+-⚡My focus is on enhancing my technical, statistical, and analytical skills.
+- 💻 I am working on improving my proficiency in **SQL, Python, Bash, and R-Studio** to effectively query data and uncover valuable insights. Additionally, I am expanding my expertise in data visualization tools like **Tableau(EXCEL)** and **Power BI** to better communicate findings and drive data-driven decisions.
+
+---
+
+<!-- skills section - programming languages -->
+
+## 🛠️ Skills & Tools
+
 
 ## 📊 Projects Submitted as Part of FreeCodeCamp Courses
 
@@ -30,7 +44,12 @@ Here are some of the projects I completed as part of my FreeCodeCamp journey:
   - Description: A web scraping project to gather data from online sources and clean it for analysis.
 
 ## 🛠️ Skills & Tools
-
+<div>
+  <h2>**Programming Languages**:</h2>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
+</div>
 - **Programming Languages**: Python, JavaScript, SQL
 - **Data Science**: Pandas, NumPy, Scikit-learn, Matplotlib
 - **Web Development**: HTML, CSS, JavaScript, React
