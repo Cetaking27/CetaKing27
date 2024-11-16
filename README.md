@@ -51,13 +51,19 @@
     </tr>
     <tr>
       <td align="left">
-        <a href="https://github.com/Cetaking27/Master-Degree-Project/issues/3#issue-2661997097/4" target="_blank"><strong>Master Degree Thesis Projects</strong></a>
+        <a href="https://github.com/Cetaking27/Master-Degree-Project.git" target="_blank"><strong>Master Degree Thesis Projects</strong></a>
       </td>
       <td align="left">
         <!-- Add Project Description here -->
       </td>
       <td align="left">
         <!-- Add Tools here -->
+        <ul>
+            <li> 🐍 Python </li>
+            <li> Statitic and Probability </li>
+            <li>🔢 Numpy, Scipy, Sympy</li>
+            <li>🍁 Mathplotlib </li>
+        </ul>
       </td>
       <td align="left">
         <!-- Add Documentation links here -->
