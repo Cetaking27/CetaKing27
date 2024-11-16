@@ -55,6 +55,15 @@
       </td>
       <td align="left">
         <!-- Add Project Description here -->
+        <ul>
+          <li>Definition of Negative Moments of Random Vaiables</li>
+          <h3>Methods of calculating Negative moments for distribution:</h3>
+          <li>Hyper-Geo Distribution</li>
+          <li>Binomial Distribution</li>
+          <li>Poisson Distribtion</li>
+          <li>Gamma Distribution</li>
+          <li>Beta Distribution</li>
+        </ul>
       </td>
       <td align="left">
         <!-- Add Tools here -->
@@ -63,10 +72,15 @@
             <li> Statitic and Probability </li>
             <li>🔢 Numpy, Scipy, Sympy</li>
             <li>🍁 Mathplotlib </li>
+            <li> R-studio </li>
         </ul>
       </td>
       <td align="left">
         <!-- Add Documentation links here -->
+        <a href='https://www.scirp.org/reference/ReferencesPapers?ReferenceID=1978362'> Application of Hypergeometric Series in the Inverse Moments of Special Discrete Distribution </a>
+        <a href="https://www.semanticscholar.org/paper/The-Moment-Generating-Function-and-Negative-Integer-Cressie-Davis/7769e8a44caf1223e5f9a2e51a0b1ebae0b67b64"> The Moment-Generating Function and Negative Integer Moments</a>
+        <a href="https://www.researchgate.net/publication/233256706_Multi-Center_Clinical_Trials_with_Random_En">Multi-Center Clinical Trials with Random Enrollment: Theoretical Approximations</a>
+        <a href="https://github.com/Cetaking27/Master-Degree-Project/blob/main/master_projet/%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA.bib">More Bibliography</a>
       </td>
     </tr>
   </tbody>
