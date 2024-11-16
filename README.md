@@ -122,4 +122,5 @@
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cetaking27&show_icons=true&hide_title=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cetaking27&show_icons=true&hide_title=true) ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cetaking27&show_icons=true&hide_title=true)
+
