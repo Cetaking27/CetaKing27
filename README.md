@@ -117,6 +117,7 @@
 
 - [**FreeCodeCamp - Data Analysis Certification**](https://www.freecodecamp.org/certification/yourusername/data-analysis)
 - [**Coursera - Machine Learning Specialization**](https://www.coursera.org/account/accomplishments/verify/AMY4N9H8K8CT)
+- [**Coursera - Databases and SQL for Data Science with Python**](https://coursera.org/share/3569f91fdf299d561605c1f25c1ddcb8)
 
 ---
 
