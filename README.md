@@ -85,7 +85,7 @@
     </tr>
     <tr>
         <td align="left">
-        <a href="https://github.com/Cetaking27/Master-Degree-Project.git" target="_blank"><strong>Master Degree Thesis Projects</strong></a>
+        <a href="https://github.com/Cetaking27/Certification-Project/tree/master/Project_1" target="_blank"><strong>Master Degree Thesis Projects</strong></a>
       </td>
       <td align="left">
     </tr>
