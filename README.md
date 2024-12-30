@@ -83,6 +83,12 @@
         <a href="https://github.com/Cetaking27/Master-Degree-Project/blob/main/master_projet/%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA.bib">More Bibliography</a>
       </td>
     </tr>
+    <tr>
+        <td align="left">
+        <a href="https://github.com/Cetaking27/Master-Degree-Project.git" target="_blank"><strong>Master Degree Thesis Projects</strong></a>
+      </td>
+      <td align="left">
+    </tr>
   </tbody>
 </table>
 
@@ -97,7 +103,7 @@
     </tr>
     <tr>
       <td align="left">
-        <a href="https://www.freecodecamp.org/learn/relational-database/" target="_blank">Relational Database Developer</a>
+        <a href="https://github.com/Cetaking27/Certification-Project/tree/master/Project_1" target="_blank">Relational Database Developer</a>
         <br>Tools: SQL, PostgreSQL, VSCode, Linux/Unix, Bash
       </td>
       <td align="left">Relational Database Project</td>
