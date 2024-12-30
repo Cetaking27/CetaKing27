@@ -110,7 +110,7 @@
       </td>
        <td align="left">
         <!-- Add Documentation links here -->
-        <a href='https://scikit-learn.org/stable/modules/generated/sklearn.metrics.roc_auc_score.html'> roc_auc_score </a>
+        <a href='https://scikit-learn.org/stable/modules/generated/sklearn.metrics.roc_auc_score.html'> roc_auc_score </a> </br>
         <a href="https://www.coursera.org/projects/data-science-challenge">Courser:Data Science Challenge</a>
       </td>
     </tr>
