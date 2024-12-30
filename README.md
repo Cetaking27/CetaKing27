@@ -88,8 +88,7 @@
         <td align="left">
         <a href="https://github.com/Cetaking27/Certification-Project/tree/master/Project_1" target="_blank"><strong>ChurnPrediction Projects</strong></a>
       </td>
-      <td align="left">
-        <td align="left">
+     <td align="left">
         <!-- Add Project Description here -->
         <ul>
           <li>Data Loading & Exploration</li>
@@ -100,7 +99,6 @@
         </ul>
       </td>
       <td align="left">
-        <td align="left">
         <!-- Add Tools here -->
         <ul>
             <li> 🐍 Python, machine learning </li>
