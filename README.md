@@ -83,11 +83,38 @@
         <a href="https://github.com/Cetaking27/Master-Degree-Project/blob/main/master_projet/%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA.bib">More Bibliography</a>
       </td>
     </tr>
+<!---------------------------------------------------------------------------------/* -->
     <tr>
         <td align="left">
-        <a href="https://github.com/Cetaking27/Certification-Project/tree/master/Project_1" target="_blank"><strong>Master Degree Thesis Projects</strong></a>
+        <a href="https://github.com/Cetaking27/Certification-Project/tree/master/Project_1" target="_blank"><strong>ChurnPrediction Projects</strong></a>
       </td>
       <td align="left">
+        <td align="left">
+        <!-- Add Project Description here -->
+        <ul>
+          <li>Data Loading & Exploration</li>
+          <li>Visualization</li>
+          <li>Model Building</li>
+          <li>Evaluation</li>
+          <li>Prediction & Result Generation</li>
+        </ul>
+      </td>
+      <td align="left">
+        <td align="left">
+        <!-- Add Tools here -->
+        <ul>
+            <li> 🐍 Python, machine learning </li>
+            <li> Pandas </li>
+            <li>🔢 seaborn, logistic regression</li>
+            <li>🍁 Mathplotlib </li>
+            <li> scikit-learn</li>
+        </ul>
+      </td>
+       <td align="left">
+        <!-- Add Documentation links here -->
+        <a href='https://scikit-learn.org/stable/modules/generated/sklearn.metrics.roc_auc_score.html'> roc_auc_score </a>
+        <a href="https://www.coursera.org/projects/data-science-challenge">Courser:Data Science Challenge</a>
+      </td>
     </tr>
   </tbody>
 </table>
