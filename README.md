@@ -117,9 +117,30 @@
   </tbody>
 </table>
 
-### 💻📊 Projects Submitted as Part of FreeCodeCamp Courses:
+### 💻📊 Projects Submitted as Part for Programming Skills:
 
 <table>
+  <tbody>
+    <tr>
+      <th align="center">Course</th>
+      <th align="center">Project</th>
+      <th align="center">Description</th>
+    </tr>
+    <tr>
+      <td align="left">
+        <a href="https://github.com/Cetaking27/Certification-Project/tree/master/Project_1" target="_blank">Relational Database Developer</a>
+        <br>Tools: SQL, PostgreSQL, VSCode, Linux/Unix, Bash
+      </td>
+      <td align="left">Relational Database Project</td>
+      <td align="left">
+        <ul>
+          <li>Created relational databases</li>
+          <li>Inserted and queried data for research purposes</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+  -----------------------------------------------------------------------------
   <tbody>
     <tr>
       <th align="center">Course</th>
