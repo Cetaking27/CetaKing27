@@ -139,14 +139,6 @@
         </ul>
       </td>
     </tr>
-  </tbody>
-  -----------------------------------------------------------------------------
-  <tbody>
-    <tr>
-      <th align="center">Course</th>
-      <th align="center">Project</th>
-      <th align="center">Description</th>
-    </tr>
     <tr>
       <td align="left">
         <a href="https://github.com/Cetaking27/Certification-Project/tree/master/Project_1" target="_blank">Relational Database Developer</a>
