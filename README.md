@@ -141,10 +141,10 @@
     </tr>
     <tr>
       <td align="left">
-        <a href="https://github.com/Cetaking27/Certification-Project/tree/master/Project_1" target="_blank">Relational Database Developer</a>
-        <br>Tools: SQL, PostgreSQL, VSCode, Linux/Unix, Bash
-      </td>
-      <td align="left">Relational Database Project</td>
+        <a href="https://github.com/Cetaking27/Certification-Project/tree/main/web-scrapping-project" target="_blank">WEB SCRAPPING PROJECT</a>
+        <br>Tools: PYTHON, SELENIUM, VSCode, XPATH, Scrapy 
+      </td>  
+      <td align="left">WEB SCRAPPING WITH PYTHON</td>
       <td align="left">
         <ul>
           <li>Created relational databases</li>
