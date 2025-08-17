@@ -147,8 +147,10 @@
       <td align="left">WEB SCRAPPING WITH PYTHON</td>
       <td align="left">
         <ul>
-          <li>Created relational databases</li>
-          <li>Inserted and queried data for research purposes</li>
+          <li>What is Web Scrapping ?</li>
+          <li> Applications of Web Scraping</li>
+          <li>Tools and Technologies</li>
+          <li>How Web Scraping Works</li>
         </ul>
       </td>
     </tr>
