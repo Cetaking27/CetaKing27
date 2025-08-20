@@ -116,7 +116,16 @@
     </tr>
   </tbody>
 </table>
-
+### Python Basics Learning Projects
+<table>
+  <tr>
+    <th align="center">Name</th>
+    <th align="center">Project-Links</th>
+  </tr>
+  <tr>
+    <td align="left">Rock paper scissors</td>
+  </tr>
+</table>
 ### 💻📊 Projects Submitted as Part for Programming Skills:
 
 <table>
