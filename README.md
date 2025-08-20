@@ -115,6 +115,7 @@
       </td>
     </tr>
   </tbody>
+<!---------------------------------------------------------------------------------/* -->
 </table>
 ### Python Basics Learning Projects
 <table>
@@ -124,8 +125,12 @@
   </tr>
   <tr>
     <td align="left">Rock paper scissors</td>
+    <td>
+      <a href="https://github.com/Cetaking27/Certification-Project/tree/main/python_Basic_Project/Project_1">here we go !</a>
+    </td>
   </tr>
 </table>
+<!---------------------------------------------------------------------------------/* -->
 ### 💻📊 Projects Submitted as Part for Programming Skills:
 
 <table>
