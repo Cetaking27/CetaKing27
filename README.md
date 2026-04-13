@@ -183,8 +183,8 @@
 
 ## 📈 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Cetaking27&show_icons=true&hide_title=true&count_private=true&cache_seconds=1)
+![Stats](https://github-readme-stats.vercel.app/api?username=Cetaking27&show_icons=true&hide_title=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cetaking27&layout=compact&cache_seconds=1)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cetaking27&layout=compact)
 
 
