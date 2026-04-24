@@ -65,7 +65,7 @@
           <li>Beta Distribution</li>
         </ul>
       </td>
-      <td align="left">
+      <!-- <td align="left"> -->
         <!-- Add Tools here -->
         <ul>
             <li> 🐍 Python </li> 
@@ -76,7 +76,7 @@
             <li>🍁 Mathplotlib </li>
             <li> R-studio </li>
         </ul>
-      </td>
+      <!-- </td> -->
       <td align="left">
         <!-- Add Documentation links here -->
         <a href='https://www.scirp.org/reference/ReferencesPapers?ReferenceID=1978362'> Application of Hypergeometric Series in the Inverse Moments of Special Discrete Distribution </a>
