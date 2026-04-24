@@ -68,7 +68,10 @@
       <td align="left">
         <!-- Add Tools here -->
         <ul>
-            <li> 🐍 Python </li> <li> Statitic and Probability </li>
+            <li> 🐍 Python </li> 
+        </ul>
+        <ul>
+            <li> Statitic and Probability </li>
             <li>🔢 Numpy, Scipy, Sympy</li>
             <li>🍁 Mathplotlib </li>
             <li> R-studio </li>
