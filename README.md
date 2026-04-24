@@ -28,8 +28,7 @@
 ## 🛠️ Skills & Tools
 <div>
   <h3>Programming Languages and Tools:</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="60" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="60" height="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" title="RStudio" alt="RStudio" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="60" height="60" />
@@ -65,8 +64,8 @@
           <li>Beta Distribution</li>
         </ul>
       </td>
-      <!-- <td align="left"> -->
-        <!-- Add Tools here -->
+      <td align="left">
+        Add Tools here
         <ul>
             <li> 🐍 Python </li> 
             <li> Statitic and Probability </li>
@@ -74,7 +73,7 @@
             <li>🍁 Mathplotlib </li>
             <li> R-studio </li>
         </ul>
-      <!-- </td> -->
+      </td>
       <td align="left">
         <!-- Add Documentation links here -->
         <a href='https://www.scirp.org/reference/ReferencesPapers?ReferenceID=1978362'> Application of Hypergeometric Series in the Inverse Moments of Special Discrete Distribution </a>
