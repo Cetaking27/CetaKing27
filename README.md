@@ -69,8 +69,6 @@
         <!-- Add Tools here -->
         <ul>
             <li> 🐍 Python </li> 
-        </ul>
-        <ul>
             <li> Statitic and Probability </li>
             <li>🔢 Numpy, Scipy, Sympy</li>
             <li>🍁 Mathplotlib </li>
